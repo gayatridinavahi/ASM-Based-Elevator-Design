@@ -1,2 +1,2 @@
-hw26.v +define+Case1
+hw26.v +define+Case1  //method used is defined in this manner.
 hw26_tb.v
