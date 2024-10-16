@@ -9,4 +9,9 @@ This design has been done in three ways which are as follows:
 2) CaseX method
 3) Boolean Method
 
-The working codes have been given for all three cases. use must correctly define the case he/she wants to use as per need before simulation.
+The working codes have been given for all three cases. User must correctly define the case he/she wants to use as per need before simulation.
+
+## Results
+The functionality has been verified and the waveform has been attached for reference.
+![image](https://github.com/user-attachments/assets/b1842d9d-c3c0-48d8-91d7-bc51c5726c5b)
+
