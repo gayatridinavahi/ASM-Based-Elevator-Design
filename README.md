@@ -11,6 +11,10 @@ This design has been done in three ways which are as follows:
 
 The working codes have been given for all three cases. User must correctly define the case he/she wants to use as per need before simulation.
 
+## State Machine Diagram
+Attached below is the ASM chart.
+![hw20 schematic](https://github.com/user-attachments/assets/c60cee4e-da46-43f2-9a01-7c1c746535bd)
+
 ## Results
 The functionality has been verified and the waveform has been attached for reference.
 ![image](https://github.com/user-attachments/assets/b1842d9d-c3c0-48d8-91d7-bc51c5726c5b)
